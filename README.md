@@ -17,12 +17,9 @@ Simple Blog adalah aplikasi blog sederhana berbasis web yang dibangun menggunaka
 ## Cara Menjalankan Proyek
 1. Clone repository ini 
 ```sh
-bash
-git clone https://github.com/username/simple-blog.git
-cd simple-blog
+
 ```
 2. Jalankan dengan maven (Spring Boot)
 ```sh
-bash
 ./mvnw spring-boot:run
 ```
